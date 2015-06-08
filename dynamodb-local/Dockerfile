@@ -1,4 +1,4 @@
-FROM makuk66/docker-oracle-java7
+FROM busybox/java:7
 
 MAINTAINER Marcos Lilljedahl, marcosnils@gmail.com
 
