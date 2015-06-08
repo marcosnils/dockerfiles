@@ -1,4 +1,4 @@
-FROM busybox/java:7
+FROM jeanblanchard/busybox-java:7
 
 MAINTAINER Marcos Lilljedahl, marcosnils@gmail.com
 
