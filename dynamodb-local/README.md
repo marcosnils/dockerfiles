@@ -1,6 +1,7 @@
 # What's in this image
 
-This image contains the latest AWS dynamodb-local version. If you find that the dynamo version is outdated, just send a PR to this repo so docker hub will trigger a new build automatically
+This image contains the latest AWS dynamodb-local version. It's also optimized so the image size is kept as small as possible.
+If you find that the dynamo version is outdated, just send a PR to this repo so docker hub will trigger a new build automatically
 
 ### start a dynamodb instance
 
