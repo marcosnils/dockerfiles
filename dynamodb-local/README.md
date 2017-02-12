@@ -15,7 +15,7 @@ This image will expose port 8000 by default. That's the port you will need to us
 ### What other options can I use with dynamo?
 
 ```
-docker run marcosnils/dynamodb/local
+docker run marcosnils/dynamodb-local
 ```
 
 This command will print all the possible options you may use as a `[COMMAND]` argument for your docker image
